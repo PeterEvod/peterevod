@@ -59,19 +59,20 @@ p {font-size: 1rem;
 
    }
 
-   header h2 {
-       margin: 0;
-       color: #ffffff;
+   header h2, header h4 {
+       margin: 0.78rem;
        font-weight: 300;
        font-style: inherit;
-       padding: .5rem 0 0 0;
-       font-size: 1.95rem;
+       padding: .75rem 0 0 0;
+       font-size: 1.65rem;
+       
    }
   
 
    header h4 {
-       padding: .2rem 0 0 0;
+       padding: 0 0 0 0;
        font-size: 1.05rem;
+       font-style: italic;
    }
 
 
