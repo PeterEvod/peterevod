@@ -59,8 +59,8 @@ p {font-size: 1rem;
 
    }
 
-   header h2, header h4 {
-       margin: 0.78rem;
+   header h2 {
+       margin: 0.78rem 0 0 0;
        font-weight: 300;
        font-style: inherit;
        padding: .75rem 0 0 0;
@@ -70,7 +70,8 @@ p {font-size: 1rem;
   
 
    header h4 {
-       padding: 0 0 0 0;
+
+       padding: .1rem 0 0 0;
        font-size: 1.05rem;
        font-style: italic;
    }
