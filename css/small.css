@@ -113,8 +113,30 @@ p {font-size: 1rem;
        font-style: none;
        margin: .5rem 0 .1rem 0;
        font-size: 2rem;
+ }
+.labeled {position: relative ;
+}
+.labeled h4, .labeled p, .labeled address {
+    background-color: #92b0a3;
+    margin: 0;
+    width: 100%;
+    padding: .3rem 1rem;
+}
 
-   }
+.labeled h4 {
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+
+
+.labeled p,.labeled address {
+    font-weight: 700;
+    color:#1d4e89;
+    margin: 0 .7rem 0 0;
+}
+
+   /*footer begin*/
    footer {
        background-color: #E3CD81FF;
        font-size:1.2rem;
